@@ -1,5 +1,5 @@
-// Create the Book
-class public class Book {
+// Create the Book class
+public class Book {
     // Static ID counter to assign unique IDs
     private static int idCounter = 1;
     private String id;
